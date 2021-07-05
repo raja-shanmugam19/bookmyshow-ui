@@ -1,6 +1,13 @@
 # bookmyshow-ui
 This application display the movie details so that user can see the list of movies available and can see each movie information.
 
+## Frameworks and Libraries used:
+```
+VueJs
+Vuetify
+Axios
+```
+
 ## Project setup
 ```
 npm install
